@@ -41,7 +41,7 @@ export const ComponentCSSINJS3 = () => (
 
 /* Changing className states */
 
-const ButtonCustom3 = button(props => ({
+const ButtonCustom4 = button(props => ({
   type: props.button,
   priority: props.secondary,
   skin: props.light,
